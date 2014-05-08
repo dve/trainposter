@@ -7,5 +7,5 @@ This repo is not ment for rendered pictures.
 
 Suggested directory layout:
 
-src/SETNUMBER/SETNUMBER.dat
+src/SETNUMBER/SETNUMBER.ldr
 src/SETNUMBER/SETNUMBER.pov
